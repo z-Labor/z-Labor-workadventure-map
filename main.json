@@ -160,7 +160,12 @@
                 {
                  "name":"jitsiTriggerMessage",
                  "type":"string",
-                 "value":"press SPACE to join the chaoszone jitsi"
+                 "value":"press SPACE to join our jitsi"
+                }, 
+                {
+                 "name":"jitsiUrl",
+                 "type":"string",
+                 "value":"jitsi.live.linux-tage.de\/global-clt22-live-zlab"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -343,7 +348,7 @@
          "name":"frontofhouse",
          "opacity":1,
          "type":"tilelayer",
-         "visible":true,
+         "visible":false,
          "width":80,
          "x":0,
          "y":0
