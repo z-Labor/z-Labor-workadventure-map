@@ -382,7 +382,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.openstreetmap.org\/?mlat=50.72260&amp;mlon=12.48035#map=19\/50.72260\/12.48035"
+                 "value":"https:\/\/www.openstreetmap.org\/export\/embed.html?bbox=12.478851377964022%2C50.722083265608035%2C12.481844723224642%2C50.723113976552646&layer=mapnik&marker=50.722598623914315%2C12.48034805059433"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
