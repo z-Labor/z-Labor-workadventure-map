@@ -150,7 +150,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"z-labor"
+                 "value":"-CLT22-LIVE-ZLAB"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -161,11 +161,6 @@
                  "name":"jitsiTriggerMessage",
                  "type":"string",
                  "value":"press SPACE to join our jitsi"
-                }, 
-                {
-                 "name":"jitsiUrl",
-                 "type":"string",
-                 "value":"jitsi.live.linux-tage.de\/global-clt22-live-zlab"
                 }],
          "type":"tilelayer",
          "visible":true,

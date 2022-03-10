@@ -274,17 +274,22 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"jitsiRoom",
+                 "name":"openTab",
                  "type":"string",
-                 "value":"z-Labor"
+                 "value":""
                 }, 
                 {
-                 "name":"jitsiTrigger",
+                 "name":"openWebsite",
+                 "type":"string",
+                 "value":"https:\/\/jitsi.live.linux-tage.de\/global-clt22-live-zlab"
+                }, 
+                {
+                 "name":"openWebsiteTrigger",
                  "type":"string",
                  "value":"onaction"
                 }, 
                 {
-                 "name":"jitsiTriggerMessage",
+                 "name":"openWebsiteTriggerMessage",
                  "type":"string",
                  "value":"press SPACE to enter the z-Labor jitsi meet room"
                 }],
