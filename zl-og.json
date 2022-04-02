@@ -281,7 +281,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/jitsi.live.linux-tage.de\/global-clt22-live-zlab"
+                 "value":"https:\/\/meet.ffmuc.net\/z-labor"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -421,7 +421,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/zlabor.wordpress.com\/"
+                 "value":"https:\/\/www.z-labor.space"
                 }, 
                 {
                  "name":"openWebsiteTrigger",
@@ -431,7 +431,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"press SPACE to open the old and crappy z-Labor Website"
+                 "value":"press SPACE to open z-Labor Website"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -590,12 +590,12 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"obergeschoss Seilerstrasse1 Zwickau"
+         "value":"Obergeschoss Seilerstrasse 1 Zwickau"
         }, 
         {
          "name":"mapLink",
          "type":"string",
-         "value":"https:\/\/github.com\/z-Marcel\/z-Labor-workadventure-map\/blob\/rc3-2021\/zl-og.json"
+         "value":"https:\/\/gitlab.com\/zlab-zwickau\/z-Labor-workadventure-map\/-\/blob\/main\/zl-og.json"
         }, 
         {
          "name":"mapName",
