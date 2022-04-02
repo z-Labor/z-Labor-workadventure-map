@@ -232,7 +232,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/_\/global\/maps.live.linux-tage.de\/maps\/ZHSG\/EG.json#start_live_ZLAB"
+                 "value":"..\/..\/..\/..\/raw.githubusercontent.com\/die3ungleichen\/2D-Welt-thueringen\/main\/sachsen\/sachsen.json#reentry-zwickau"
                 }],
          "type":"tilelayer",
          "visible":true,
